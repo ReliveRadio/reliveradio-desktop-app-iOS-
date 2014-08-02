@@ -4,7 +4,7 @@ Relive Radio APP 2.2.15
 <h3>NEU! ReliveRadio App für Mac</h3>
 Schnell und einfach das bekannteste Podcast Radio auf dem Desktop hören, mit der neuen Mini App von <a href="http://reliveradio.de">ReliveRadio.de</a>.
 
-<a href="https://github.com/ReliveRadio/reliveradio-desktop-app-mac-os/blob/master/ReliveRadio-2.2.15.zip?raw=true"> >>Hier Downloaden << </a>
+<a href="https://github.com/ReliveRadio/reliveradio-desktop-app-mac-os/blob/master/ReliveRadio-2.2.15.zip?raw=true"> >> Hier Downloaden << </a>
 
 <img src="https://raw.githubusercontent.com/ReliveRadio/reliveradio-desktop-app-mac-os/master/rrd-app-2.2.15.png" />
 <h1>Lizenzen</h1>
