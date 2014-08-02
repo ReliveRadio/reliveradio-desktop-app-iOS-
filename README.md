@@ -12,15 +12,15 @@ Schnell und einfach das bekannteste Podcast Radio auf dem Desktop hören, mit de
 <pre>/*
  * ==========================================================
  * ReliveRadio APP
- * Project RRJA WebPlayer Project
- * Copyright 2013
+ * Project RRJA WebPlayer Project (ReliveRadio)
+ * Copyright 2013 - 2014
  * Developed by Michael McCouman jr.
  * ==========================================================
  */</pre>
 
 @info: Mini Desktop App für den ReliveRadio Dienst
 
-@developer: <a style="color: #08C;" href="https://flattr.com/profile/mccouman">Michael McCouman jr.</a>
+@developer: Michael McCouman Jr.
 
 @version: 2.2.15
 
@@ -31,15 +31,28 @@ Copyright (c) 2013, C3ltaX Media - All rights reserved.
  * ==========================================================
  * ReliveRadio Player
  * Project RRJA WebPlayer Project
- * Copyright 2013
+ * Copyright 2013 - 2014  (ReliveRadio)
  * Developed by Michael McCouman jr.
  * ==========================================================
  */</pre>
  
 @info: Mac Player für die ReliveRadio App
 
-@developer: <a style="color: #08C;" href="https://flattr.com/profile/mccouman">Michael McCouman jr.</a>
+@developer: Michael McCouman Jr.
 
 @version: 3.0.10
 
 Copyright (c) 2013, labs.wikibyte.org - All rights reserved.
+
+
+###Unterstützen
+
+<!--Relive Radio-->
+<a href="http://flattr.com/thing/973782/ReliveRadio-de-Podcasts-rund-um-die-Uhr">
+<img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> ReliveRadio</a>  
+
+<!--McCouman-->
+<a href="https://flattr.com/profile/mccouman">
+<img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael (mccouman)</a> 
