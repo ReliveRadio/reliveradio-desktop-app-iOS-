@@ -1,36 +1,46 @@
-<h1>Lizenzen</h1>
-<h2>ReliveRadio Desktop APP</h2>
-<pre>/*
+Lizenzen
+-------------------
+
+
+ReliveRadio Desktop APP
+
+/*
  * ==========================================================
  * ReliveRadio APP
- * Project RRJA WebPlayer Project
- * Copyright 2013
+ * Project RRJA WebPlayer Project (ReliveRadio)
+ * Copyright 2013 - 2014
  * Developed by Michael McCouman jr.
  * ==========================================================
- */</pre>
-
+ */
 @info: Mini Desktop App für den ReliveRadio Dienst
 
-@developer: <a style="color: #08C;" href="https://flattr.com/profile/mccouman">Michael McCouman jr.</a>
+@developer: Michael McCouman Jr.
 
-@version: 2.2.13
+@version: 2.2.15
 
 Copyright (c) 2013, C3ltaX Media - All rights reserved.
 
 
-<pre>/*
+/*
  * ==========================================================
  * ReliveRadio Player
  * Project RRJA WebPlayer Project
- * Copyright 2013
+ * Copyright 2013 - 2014  (ReliveRadio)
  * Developed by Michael McCouman jr.
  * ==========================================================
- */</pre>
+ */
  
 @info: Mac Player für die ReliveRadio App
 
-@developer: <a style="color: #08C;" href="https://flattr.com/profile/mccouman">Michael McCouman jr.</a>
+@developer: Michael McCouman Jr.
 
-@version: 2.2.13
+@version: 3.0.10
 
 Copyright (c) 2013, labs.wikibyte.org - All rights reserved.
+
+
+Unterstützen
+----------------
+
+- https://flattr.com/thing/973782/ReliveRadio-de-Podcasts-rund-um-die-Uhr (ReliveRadio)
+- https://flattr.com/profile/mccouman (Michael McCouman Jr.)
